@@ -1,0 +1,138 @@
+* {
+	box-sizing: border-box;
+}
+body{
+	font-family: Calibri;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+.container{
+	margin: 1% 10%;
+}
+
+.header{
+	border: 1px solid #c8ccc0;
+	background-color: #f6f6ec;
+	border-radius: 8px;
+	text-align: center;
+	padding-bottom: 15px;
+	font-size: 17px;
+}
+.logo{
+	margin: 5px;
+	margin-bottom: 0px;
+}
+.welcome{
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+.header_link{
+	text-decoration: none;
+	color: purple;
+}
+.forum{
+      border: 1px solid #c8ccc0;
+	background-color: #f6f6ec;
+	border-radius: 8px;
+	text-decoration: none;
+    padding: 0px;
+    font-size: 17px;
+  margin: 10px 0px;
+}
+.forum p{
+	border-bottom: 1px solid #c8ccc0;
+	padding: 5px;
+	padding-top: -10px;
+	margin: 0;
+
+}
+.forum p:last-child{
+	border-bottom: 0px;
+}
+.forum p:nth-child(3){
+	background-color: #dddddd;
+}
+.images{
+	border-bottom-left-radius: 20px;
+}
+.header_clink{
+	font-size: 17px;
+	color: #181870;
+	text-decoration: none;
+}
+
+.naira{
+	background-color: #dddddd;
+	margin: 0px;
+	padding: 8px;
+	text-align: center;
+	border-bottom: 1px solid #c8ccc0;
+}
+
+
+.container {
+  border-collapse: separate;
+  border-spacing: 15px;
+}
+
+.images_link{
+	border-radius: 10px;
+	align-content: center;
+}
+
+.latest{
+	border: 1px solid #c8ccc0;
+	background-color: #f6f6ec;
+	border-radius: 8px;
+	text-align: center;
+	font-size: 17px;
+	margin: 10px;
+	font-weight: bold;
+}
+
+.news{
+	margin:5px 0px;
+	padding-bottom: 4px;
+	border-top-left-radius: 5px;
+	border-bottom: 1px solid #c8ccc0;
+}
+.pages{
+	border-top: 1px solid #c8ccc0;
+	padding: 5px 0px;
+	margin: 0px;
+	background-color: #ddd;
+}
+.tag{
+	text-decoration: none;
+	text-align: center;
+	color: #181870;
+	font-size: 17px;
+}
+.latest_link{
+	text-decoration: none;
+	color: #181870;
+}
+.images2_link{
+	border-radius: 10px;
+	margin: 10px;
+}
+.member{
+	border-radius: 8px;
+	text-align: center;
+	padding: 0px;
+	font-size: 17px;	
+	margin: 0px;
+	border: 1px solid #c8ccc0;
+	background-color: #f6f6ec;;
+}
+.member h3{
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+.member p {
+	margin: 0px 0px 5px;
+}
